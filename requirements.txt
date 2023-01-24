@@ -1,0 +1,6 @@
+wave
+matplotlib
+numpy
+scikit-learn
+soundfile
+librosa
